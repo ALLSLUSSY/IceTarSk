@@ -23,19 +23,19 @@ const LuxuryUIShowcase = () => {
       id: "1",
       title: "Gucci",
       image:
-        "https://1000logos.net/wp-content/uploads/2017/04/Gucci-Logo-500x281.png",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkCxz3I2tAFNqBjsDPw18pAR4rsNs5JxVqLg&s",
     },
     {
       id: "2",
       title: "Louis Vuitton",
       image:
-        "https://1000logos.net/wp-content/uploads/2017/05/Louis-Vuitton-Logo-500x281.png",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVCT5RtnhTAwHq4MxDCtXy_yJ_rXlA4cpfA&s",
     },
     {
       id: "3",
       title: "Chanel",
       image:
-        "https://1000logos.net/wp-content/uploads/2017/05/Chanel-Logo-500x281.png",
+        "https://thumbnail.imgbin.com/9/12/14/chanel-logo-black-and-gold-chanel-logo-uyBExGVD_t.jpg",
     },
   ];
 
